@@ -1,0 +1,23 @@
+{
+    "titles" : [
+        "I am",
+        "You are",
+        "He is",
+        "She is",
+        "It is"
+    ],
+    "objects": [
+        {
+            "route": "/abc",
+            "value": 10
+        },
+        {
+            "route": "/test",
+            "value": 500
+        },
+        {
+            "route": "/mock",
+            "value": -1
+        }
+    ]
+}
